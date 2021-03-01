@@ -1,6 +1,5 @@
 # README #
 
-T
 
 ### Result ###
 
